@@ -45,9 +45,6 @@ int main()
 	double distance = v2.DistanceTo(v4);
 	std::cout << distance << std::endl;
 
-
-
-
 	getchar();
 	return 0;
 }
